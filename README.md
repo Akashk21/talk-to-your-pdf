@@ -9,7 +9,7 @@ A lightweight, privacy-friendly Streamlit app that lets you **chat with any PDF 
 ## 📸 App Preview
 
 <!-- Replace below base64 src with your actual image if needed -->
-<img src="[<img width="1354" height="639" alt="image" src="https://github.com/user-attachments/assets/d91e6ef2-1d48-4f0d-a1da-f116f7ed1320" />
+<img src="width="1354" height="639" alt="image" src="https://github.com/user-attachments/assets/d91e6ef2-1d48-4f0d-a1da-f116f7ed1320" />
 )" alt="App Screenshot" width="700"/>
 
 ---
