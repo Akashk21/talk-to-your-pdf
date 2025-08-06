@@ -43,41 +43,38 @@ git clone https://github.com/your-username/talk-to-your-pdf.git
 cd talk-to-your-pdf
 
 ```
-2. Install Dependencies
-
+### 2. Install Dependencies
+```bash
 pip install -r requirements.txt
+```
 
-
-3. Pull a Model with Ollama
-
+### 3. Pull a Model with Ollama
+```bash
 ollama pull mistral:7b-instruct
-
+```
 You can replace mistral:7b-instruct with other supported models like gemma:2b-instruct.
 
-4. Run the App
-
+### 4. Run the App
+```bash
 streamlit run app.py
+```
 
-
-📁 Project Structure
-
+### 📁 Project Structure
+```bash
 talk-to-your-pdf/
 ├── app.py
 ├── faiss_index/
 ├── requirements.txt
 └── README.md
+```
 
-
-🙌 Acknowledgements
+### 🙌 Acknowledgements
 
 🤗 HuggingFace for embedding models
-
 🔗 LangChain for prompt orchestration
-
 🐙 Ollama for running LLMs locally
-
 🎈 Streamlit for the interactive UI
 
-⭐️ Star this repo if it helped you!
+### ⭐️ Star this repo if it helped you!
 
 It motivates me to keep building more cool things like this! 😊
