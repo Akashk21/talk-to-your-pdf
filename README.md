@@ -7,6 +7,7 @@ A lightweight, privacy-friendly Streamlit app that lets you **chat with any PDF 
 ---
 
 ## 📸 App Preview
+
 <img src="https://github.com/user-attachments/assets/d91e6ef2-1d48-4f0d-a1da-f116f7ed1320" alt="App Screenshot" width="700" />
 
 ---
@@ -41,7 +42,7 @@ A lightweight, privacy-friendly Streamlit app that lets you **chat with any PDF 
 git clone https://github.com/your-username/talk-to-your-pdf.git
 cd talk-to-your-pdf
 
-
+```
 2. Install Dependencies
 
 pip install -r requirements.txt
