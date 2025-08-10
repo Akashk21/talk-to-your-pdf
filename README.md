@@ -1,4 +1,4 @@
-# 🧠 Talk to Your PDF (Demo Vide: [https://drive.google.com/file/d/1zgZxRMMzoO-O1uRH5IPPSa6g5A44Giwt/view?usp=sharing](url))
+# 🧠 Talk to Your PDF (Demo Video: [Link](https://drive.google.com/file/d/1zgZxRMMzoO-O1uRH5IPPSa6g5A44Giwt/view?usp=sharing))
 
 A lightweight, privacy-friendly Streamlit app that lets you **chat with any PDF document** using local LLMs powered by **Ollama**, **FAISS** vector search, and **HuggingFace embeddings**.
 
